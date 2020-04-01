@@ -1,5 +1,5 @@
-a=250
-b=50
+a=20
+b=10
 #penjumlahan
 tambah=a + b
 print("hasil penjumlahan:", tambah)
